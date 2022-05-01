@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+}
+
+.canvas {
+    flex: 3;
+}
+
+.menu {
+    flex: 1;
+}
